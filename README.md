@@ -11,7 +11,7 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
 ![full page screenshot](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1653371030/CleanShot_2022-05-24_at_01.11.52_2x_bspa8c.jpg)
 
 > 🧐 Please be aware that some aspects of this theme are not fully functional and will need to be integrated with the recommended tooling mentioned at the end of the [README](#next-steps-with-this-theme). 
-
+f
 ## Table of Contents:
 
 - [Quick Steps + Deploy Options](#quick-setup--deploy-option)
